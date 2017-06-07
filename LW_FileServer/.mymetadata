@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LW_FileServer"
+  id="myeclipse.1418792526684"
+  context-root="/ofoodpic"
+  j2ee-spec="6.0"
+  archive="LW_FileServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+
